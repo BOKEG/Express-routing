@@ -1,0 +1,29 @@
+{
+  "name": "express-routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOKEG/Express-routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BOKEG/Express-routing/issues"
+  },
+  "homepage": "https://github.com/BOKEG/Express-routing#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "pug": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
